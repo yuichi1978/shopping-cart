@@ -11,8 +11,6 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
-    "lightningcss": "^1.29.3",
-    "lightningcss-win32-x64-msvc": "^1.29.3",
     "lucide-react": "^0.483.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
